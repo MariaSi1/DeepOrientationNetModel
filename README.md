@@ -4,5 +4,6 @@ This repository contains a trained net model for computing local fringe orientat
 
 
 This code can be used freely for research purposes, but please cite some adequate paper:
-M. Cywińska, M. Rogalski, F. Brzeski, K. Patorski1, M. Trusiak, "DeepOrientation: convolutional neural network for fringe pattern orientation map estimation", (in review)
+
+_M. Cywińska, M. Rogalski, F. Brzeski, K. Patorski, M. Trusiak, "DeepOrientation: convolutional neural network for fringe pattern orientation map estimation", (in review)_
 
