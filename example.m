@@ -20,11 +20,11 @@ close all;
 % [1] M. Cywińska,et al., Opt. Express 27 (2019).
 % [2] K. G. Larkin, et al., J. Opt. Soc. Am. A 18 (2001).
 
-type='Matlab peaks function';
+%type='Matlab peaks function';
 %type='group of HeLa cells (oblong)';
-%type='group of HeLa cells (spherical)'
+type='group of HeLa cells (spherical)';
 
-image_nr=1; %may choose between 1-140
+image_nr=26; %may choose between 1-140
 
 img=imread(['Test_set/' type '/images/img_',num2str(image_nr),'.tiff']);
 
