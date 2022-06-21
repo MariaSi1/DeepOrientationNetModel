@@ -26,7 +26,7 @@ type='group of HeLa cells (spherical)';
 
 image_nr=26; %may choose between 1-140
 
-img=imread(['Test_set/' type '/images/img_',num2str(image_nr),'.tiff']);
+img=imread(['type '/images/img_',num2str(image_nr),'.tiff']);
 
 img=double(img);
 img=(img-min(min(img)))./(max(max(img))-min(min(img)));
