@@ -7,3 +7,4 @@ This code can be used freely for research purposes, but please cite some adequat
 
 _M. Cywińska, M. Rogalski, F. Brzeski, K. Patorski, M. Trusiak, "DeepOrientation: convolutional neural network for fringe pattern orientation map estimation", Optics Express 30, 42283-42298 (2022).
 
+This work has been funded by the National Science Center Poland (PRELUDIUM 2021/41/N/ST7/04057) 
